@@ -6,6 +6,8 @@
 -->
 
 # Hello GitHub Actions
+# ...more poitless comment.
+# Commenting more and less.
 
 _Create a GitHub Action and use it in a workflow._
 
